@@ -67,8 +67,8 @@ python app.py
 
 ```bash
 # 克隆仓库
-git clone https://github.com/YOUR_USERNAME/xhs-watermark.git
-cd xhs-watermark
+git clone https://github.com/onemapl3/watermark-tool.git
+cd watermark-tool
 
 # 安装依赖
 pip install -r requirements.txt
@@ -85,7 +85,7 @@ python app.py
 
 ## 相关项目
 
-- [xhs-stitch](https://github.com/YOUR_USERNAME/xhs-stitch) - 小红书横图拼接工具
+- [xhs-stitch](https://github.com/onemapl3/xhs-stitch) - 小红书横图拼接工具
 
 ## 致谢
 
