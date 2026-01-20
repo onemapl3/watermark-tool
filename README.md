@@ -1,4 +1,4 @@
-<img width="1486" height="955" alt="screenshot" src="https://github.com/user-attachments/assets/1da8df66-4572-4ad6-8d69-07a932893ba8" /># 小红书水印工具
+# 小红书水印工具
 
 一款为小红书等社交媒体优化的图片水印工具，支持批量添加 PNG 透明水印。
 
@@ -13,8 +13,8 @@
 - **后台队列处理** - 导出时不阻塞操作，可继续浏览和调整其他照片
 
 ## 截图
-![Uploading screenshot.png…]()
 
+<img width="1486" height="955" alt="screenshot" src="https://github.com/user-attachments/assets/1da8df66-4572-4ad6-8d69-07a932893ba8" />
 
 
 ## 安装
